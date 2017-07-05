@@ -1,0 +1,2 @@
+# thinkingdifferent
+My personal website
