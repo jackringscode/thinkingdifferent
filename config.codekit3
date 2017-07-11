@@ -31,284 +31,284 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/icons\/android-icon-144x144.png": {
+	"\/icns\/android-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 6217,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-144x144.png",
+		"oAP": "\/icns\/android-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/android-icon-192x192.png": {
+	"\/icns\/android-icon-192x192.png": {
 		"ft": 32768,
 		"iS": 5566,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-192x192.png",
+		"oAP": "\/icns\/android-icon-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/android-icon-36x36.png": {
+	"\/icns\/android-icon-36x36.png": {
 		"ft": 32768,
 		"iS": 2124,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-36x36.png",
+		"oAP": "\/icns\/android-icon-36x36.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/android-icon-48x48.png": {
+	"\/icns\/android-icon-48x48.png": {
 		"ft": 32768,
 		"iS": 2535,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-48x48.png",
+		"oAP": "\/icns\/android-icon-48x48.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/android-icon-72x72.png": {
+	"\/icns\/android-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 3151,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-72x72.png",
+		"oAP": "\/icns\/android-icon-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/android-icon-96x96.png": {
+	"\/icns\/android-icon-96x96.png": {
 		"ft": 32768,
 		"iS": 3850,
 		"oA": 0,
-		"oAP": "\/icons\/android-icon-96x96.png",
+		"oAP": "\/icns\/android-icon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-114x114.png": {
+	"\/icns\/apple-icon-114x114.png": {
 		"ft": 32768,
 		"iS": 4351,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-114x114.png",
+		"oAP": "\/icns\/apple-icon-114x114.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-120x120.png": {
+	"\/icns\/apple-icon-120x120.png": {
 		"ft": 32768,
 		"iS": 4518,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-120x120.png",
+		"oAP": "\/icns\/apple-icon-120x120.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-144x144.png": {
+	"\/icns\/apple-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 6217,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-144x144.png",
+		"oAP": "\/icns\/apple-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-152x152.png": {
+	"\/icns\/apple-icon-152x152.png": {
 		"ft": 32768,
 		"iS": 5591,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-152x152.png",
+		"oAP": "\/icns\/apple-icon-152x152.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-180x180.png": {
+	"\/icns\/apple-icon-180x180.png": {
 		"ft": 32768,
 		"iS": 8665,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-180x180.png",
+		"oAP": "\/icns\/apple-icon-180x180.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-57x57.png": {
+	"\/icns\/apple-icon-57x57.png": {
 		"ft": 32768,
 		"iS": 2757,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-57x57.png",
+		"oAP": "\/icns\/apple-icon-57x57.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-60x60.png": {
+	"\/icns\/apple-icon-60x60.png": {
 		"ft": 32768,
 		"iS": 2846,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-60x60.png",
+		"oAP": "\/icns\/apple-icon-60x60.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-72x72.png": {
+	"\/icns\/apple-icon-72x72.png": {
 		"ft": 32768,
 		"iS": 3151,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-72x72.png",
+		"oAP": "\/icns\/apple-icon-72x72.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-76x76.png": {
+	"\/icns\/apple-icon-76x76.png": {
 		"ft": 32768,
 		"iS": 3292,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-76x76.png",
+		"oAP": "\/icns\/apple-icon-76x76.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon-precomposed.png": {
+	"\/icns\/apple-icon-precomposed.png": {
 		"ft": 32768,
 		"iS": 6138,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon-precomposed.png",
+		"oAP": "\/icns\/apple-icon-precomposed.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/apple-icon.png": {
+	"\/icns\/apple-icon.png": {
 		"ft": 32768,
 		"iS": 6138,
 		"oA": 0,
-		"oAP": "\/icons\/apple-icon.png",
+		"oAP": "\/icns\/apple-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/browserconfig.xml": {
+	"\/icns\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/icons\/browserconfig.xml",
+		"oAP": "\/icns\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/icons\/favicon-16x16.png": {
+	"\/icns\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1337,
 		"oA": 0,
-		"oAP": "\/icons\/favicon-16x16.png",
+		"oAP": "\/icns\/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/favicon-32x32.png": {
+	"\/icns\/favicon-32x32.png": {
 		"ft": 32768,
 		"iS": 1978,
 		"oA": 0,
-		"oAP": "\/icons\/favicon-32x32.png",
+		"oAP": "\/icns\/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/favicon-96x96.png": {
+	"\/icns\/favicon-96x96.png": {
 		"ft": 32768,
 		"iS": 3850,
 		"oA": 0,
-		"oAP": "\/icons\/favicon-96x96.png",
+		"oAP": "\/icns\/favicon-96x96.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/favicon.ico": {
+	"\/icns\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/icons\/favicon.ico",
+		"oAP": "\/icns\/favicon.ico",
 		"oF": 0
 		},
-	"\/icons\/manifest.json": {
+	"\/icns\/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/icons\/manifest-min.json",
+		"oAP": "\/icns\/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"\/icons\/ms-icon-144x144.png": {
+	"\/icns\/ms-icon-144x144.png": {
 		"ft": 32768,
 		"iS": 6217,
 		"oA": 0,
-		"oAP": "\/icons\/ms-icon-144x144.png",
+		"oAP": "\/icns\/ms-icon-144x144.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/ms-icon-150x150.png": {
+	"\/icns\/ms-icon-150x150.png": {
 		"ft": 32768,
 		"iS": 5486,
 		"oA": 0,
-		"oAP": "\/icons\/ms-icon-150x150.png",
+		"oAP": "\/icns\/ms-icon-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/ms-icon-310x310.png": {
+	"\/icns\/ms-icon-310x310.png": {
 		"ft": 32768,
 		"iS": 19217,
 		"oA": 0,
-		"oAP": "\/icons\/ms-icon-310x310.png",
+		"oAP": "\/icns\/ms-icon-310x310.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/icons\/ms-icon-70x70.png": {
+	"\/icns\/ms-icon-70x70.png": {
 		"ft": 32768,
 		"iS": 2956,
 		"oA": 0,
-		"oAP": "\/icons\/ms-icon-70x70.png",
+		"oAP": "\/icns\/ms-icon-70x70.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
