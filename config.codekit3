@@ -15,6 +15,12 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/biscotti.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/biscotti.html",
+		"oF": 0
+		},
 	"\/css\/td.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -24,6 +30,393 @@
 		"oAP": "\/css\/td.min-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/icons\/android-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6217,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/android-icon-192x192.png": {
+		"ft": 32768,
+		"iS": 5566,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/android-icon-36x36.png": {
+		"ft": 32768,
+		"iS": 2124,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-36x36.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/android-icon-48x48.png": {
+		"ft": 32768,
+		"iS": 2535,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/android-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 3151,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/android-icon-96x96.png": {
+		"ft": 32768,
+		"iS": 3850,
+		"oA": 0,
+		"oAP": "\/icons\/android-icon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 4351,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 4518,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6217,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 5591,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 8665,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-180x180.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 2757,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 2846,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 3151,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 3292,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 6138,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/apple-icon.png": {
+		"ft": 32768,
+		"iS": 6138,
+		"oA": 0,
+		"oAP": "\/icons\/apple-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/icons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/icons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1337,
+		"oA": 0,
+		"oAP": "\/icons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1978,
+		"oA": 0,
+		"oAP": "\/icons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 3850,
+		"oA": 0,
+		"oAP": "\/icons\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/icons\/favicon.ico",
+		"oF": 0
+		},
+	"\/icons\/manifest.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/icons\/manifest-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/icons\/ms-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 6217,
+		"oA": 0,
+		"oAP": "\/icons\/ms-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/ms-icon-150x150.png": {
+		"ft": 32768,
+		"iS": 5486,
+		"oA": 0,
+		"oAP": "\/icons\/ms-icon-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/ms-icon-310x310.png": {
+		"ft": 32768,
+		"iS": 19217,
+		"oA": 0,
+		"oAP": "\/icons\/ms-icon-310x310.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/icons\/ms-icon-70x70.png": {
+		"ft": 32768,
+		"iS": 2956,
+		"oA": 0,
+		"oAP": "\/icons\/ms-icon-70x70.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/exampleBG.jpg": {
+		"ft": 16384,
+		"iS": 80372,
+		"oA": 0,
+		"oAP": "\/img\/exampleBG.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/examples\/logos\/biscotti_logo.png": {
+		"ft": 32768,
+		"iS": 8024,
+		"oA": 0,
+		"oAP": "\/img\/examples\/logos\/biscotti_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/examples\/logos\/kymera_logo.png": {
+		"ft": 32768,
+		"iS": 2407,
+		"oA": 0,
+		"oAP": "\/img\/examples\/logos\/kymera_logo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/examples\/logos\/tmp_logo.png": {
+		"ft": 32768,
+		"iS": 8495,
+		"oA": 0,
+		"oAP": "\/img\/examples\/logos\/tmp_logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti1-th.jpg": {
+		"ft": 16384,
+		"iS": 11975,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti1-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti1.jpg": {
+		"ft": 16384,
+		"iS": 115640,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti2-th.jpg": {
+		"ft": 16384,
+		"iS": 10282,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti2-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti2.jpg": {
+		"ft": 16384,
+		"iS": 98513,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti3-th.jpg": {
+		"ft": 16384,
+		"iS": 8857,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti3-th.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/examples\/screens\/biscotti3.jpg": {
+		"ft": 16384,
+		"iS": 74707,
+		"oA": 0,
+		"oAP": "\/img\/examples\/screens\/biscotti3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/img\/intro-bg.jpg": {
 		"ft": 16384,
@@ -70,6 +463,15 @@
 		"sC": 1,
 		"tS": 1
 		},
+	"\/js\/td.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/td.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
@@ -89,6 +491,24 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"\/sass\/_mixins.scss": {
 		"aP": 0,
@@ -126,7 +546,7 @@
 		"oA": 0,
 		"oAP": "\/css\/td.min.css",
 		"oF": 2,
-		"oS": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/vendor\/bootstrap\/css\/bootstrap.css": {
@@ -197,6 +617,53 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/vendor\/bootstrap\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/vendor\/featherlight\/featherlight-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/featherlight\/featherlight-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/vendor\/featherlight\/featherlight.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/vendor\/featherlight\/featherlight-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/vendor\/featherlight\/featherlight.gallery.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/vendor\/featherlight\/featherlight.gallery-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/vendor\/featherlight\/featherlight.gallery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/featherlight\/featherlight.gallery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/vendor\/featherlight\/featherlight.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/vendor\/featherlight\/featherlight-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0

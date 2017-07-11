@@ -334,7 +334,7 @@ h2{
 }
 
 .content-section {
-    padding-top: 20px;
+    padding-top: 0px;
     h2{
       margin-bottom:15px;
       }
@@ -441,14 +441,15 @@ section{
 }
 
 #about{
-
+  padding-top:50px;
+  min-height:100%;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,04003f+50,000000+100 */
   background: #000000;
   background: -moz-linear-gradient(top, #000000 0%, $myDarkBlue 50%, #000000 100%);
   background: -webkit-linear-gradient(top, #000000 0%,$myDarkBlue 50%,#000000 100%);
   background: linear-gradient(to bottom, #000000 0%,$myDarkBlue 50%,#000000 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
-
+  padding-bottom:50px;
 
   p{
     font-size: 14px;
@@ -466,8 +467,9 @@ section{
 }
 
 #skills{
+  padding-top: 50px;
   min-height: 100%;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   background: url(../img/skills.jpg) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -480,7 +482,9 @@ section{
       color: $myLightestGrey;
       text-shadow: 1px 2px 2px rgba(0, 0, 0, 1);
       .row-list-item{
-        padding-top:5px;
+        padding-bottom:10px;
+        line-height:1.1em;
+
       }
 
   }
@@ -515,8 +519,10 @@ section{
 }
 
 #experience{
+  padding-top:50px;
   min-height: 100%;
   background-color: $myDarkestGrey;
+  padding-bottom: 50px;
   .xp-section{
     padding:0;
     -webkit-border-radius: 10px;
@@ -535,18 +541,145 @@ section{
       border-radius: 10px;
       margin-bottom:10px;
       cursor: pointer;
+      color: $myLightGrey;
 
+      strong{
+        color: $myLightestGrey;
+      }
     &:hover{
       background-color:#000;
     }
   }
   .details{
     display: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    ul{
+      margin-top:15px;
+      li{
+        margin-bottom:10px;
+      }
+    }
   }
 
 }
 
 #examples{
-  min-height: 500px;
+  min-height: 100%;
   background-color: $myDarkGrey;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  background: url(../img/exampleBG.jpg) no-repeat bottom center scroll;
+  background-color: $myDarkestGrey;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+
+  .row-list{
+      color: $myLightestGrey;
+      text-shadow: 1px 2px 2px rgba(0, 0, 0, 1);
+      .row-list-item{
+        text-align: center;
+        // padding-bottom:10px;
+        // line-height:1.1em;
+        //min-height: 75px;
+
+        img{
+          height: 70px;
+           width: 100%;
+           max-width: 300px;
+           height: auto;
+           padding: 15px 0;
+
+        }
+
+      }
+
+  }
+
+  h3{
+    font-weight: 200;
+    font-size: 17px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: #000;
+    margin-left: -10px;
+    padding-left: 10px;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+
+    background: -moz-linear-gradient(left, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0) 100%);
+    background: -webkit-linear-gradient(left, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%);
+    background: linear-gradient(to right, rgba(0,0,0,0.4) 0%,rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3000000', endColorstr='#00000000',GradientType=1 );
+
+    -webkit-border-top-left-radius: 5px;
+    -webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+
+  }
+
+  em{
+    display: block;
+    margin-bottom:10px;
+    color: $myLightGrey;
+  }
+
+
+
+}
+#contact{
+  min-height: 100%;
+  background-color: $myDarkestGrey;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+footer{
+    background-color: $myDarkestGrey;
+    height:50px;
+  p{
+    color: $myLightGrey;
+    font-size: 12px;
+  }
+}
+
+#examples-detail{
+  min-height: 100%;
+  background-color: $myDarkGrey;
+  padding-bottom: 30px;
+  padding-top:75px;
+
+  background: url(../img/exampleBG.jpg) no-repeat bottom center scroll;
+  background-color: $myDarkestGrey;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  p{
+    font-size: 14px;
+    margin-bottom:12px;
+  }
+  .example-video{
+    border: 2px solid $myDarkGrey;
+  }
+
+  .gallery{
+    border-top:none;
+    text-align: center;
+    margin-bottom:20px;
+    img{
+      widows: auto;
+      height: 130px;
+      padding: 0 10px;
+    }
+  }
+
+
 }
